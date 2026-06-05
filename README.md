@@ -1,0 +1,2 @@
+# ErrorLess-An-Error-Friendly-Programming-Language-with-Intelligent-Compiler-Messages.
+ErrorLess: An Error-Friendly Programming Language with Intelligent Compiler Messages is designed to simplify coding by providing clear, human-friendly error messages. It helps developers quickly understand mistakes, suggests possible fixes, and reduces debugging time, making programming more accessible, especially for beginners.
